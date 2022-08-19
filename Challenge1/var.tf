@@ -1,0 +1,12 @@
+variable "resource_group" {}
+variable "location" {}
+variable "websubnetcidr" {}
+variable "primary_password" {}
+variable "primary_admin" {}
+variable "vnet" {}
+variable "vnetcidr" {}
+variable "dbsubnetcidr" {}
+variable "primary_database_admin" {}
+variable "primary_database_password" {}
+variable "primary_admin" {}
+variable "primary_password" {}
